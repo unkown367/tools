@@ -30,6 +30,6 @@ Downloads the best available video+audio stream into a temporary .mkv file, open
 
 yt-dlp — place yt-dlp.exe in the same folder as the .bat file or update the script with its full path.
 
-ffmpeg — must be installed and accessible via system PATH.
+ffmpeg — must be installed and accessible via system PATH. (suggest icedterminal/ffmpeg-installer)
 
 VLC Media Player — needed for streaming mode (option 5). Update the vlcPath in the script if it's installed in a different location.
